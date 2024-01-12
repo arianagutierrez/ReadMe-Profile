@@ -34,8 +34,6 @@
 <div align='left'>
     <a href="https://www.linkedin.com/in/ariana0412/" target="blank"><img align="center"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />
-    </a> <a href="https://codepen.io/ariana_gutierrez" target="blank"><img align="center"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codepen/codepen-plain.svg" alt="codepen.io" height="30" width="40" />
     </a>
 </div>
 
