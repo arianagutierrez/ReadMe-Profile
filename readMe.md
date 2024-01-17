@@ -38,9 +38,3 @@
 </div>
 
 <br>
-
----
-
-<br>
-
-Credit: [ariana gutierrez](https://github.com/arianagutierrez)
