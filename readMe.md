@@ -2,7 +2,7 @@
 <h3 align="center">Thank You for taking the time to view my GitHub Profile!</h3>
 
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> <b>About me</b>
+## <picture><img src = "https://giphy.com/embed/NgurY1o4z080Jfoyzw%22%20width=%22480%22%20height=%22480%22%20style=%22%22%20frameBorder=%220%22%20class=%22giphy-embed%22%20allowFullScreen%3E%3C/iframe%3E%3Cp%3E%3Ca%20href=%22https://giphy.com/stickers/transparent-NgurY1o4z080Jfoyzw" width = 50px></picture> <b>About me</b>
 
 <br>
 
