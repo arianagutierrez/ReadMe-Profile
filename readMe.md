@@ -2,7 +2,7 @@
 <h3 align="center">Thank You for taking the time to view my GitHub Profile!</h3>
 
 	
-## <picture><img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjJjOTNleXB6bzFwYmZoMmcyejNnbjgzbm1nYm4zdjhwOXZ1NmFybCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NgurY1o4z080Jfoyzw/giphy.webp" width = 50px></picture> <b>About me</b>
+## <picture><img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjJjOTNleXB6bzFwYmZoMmcyejNnbjgzbm1nYm4zdjhwOXZ1NmFybCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NgurY1o4z080Jfoyzw/giphy.webp" width ="45"></picture> <b>About me</b>
 
 <br>
 
